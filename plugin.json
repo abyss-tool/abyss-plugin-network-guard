@@ -1,0 +1,21 @@
+{
+  "id": "abyss-plugin-network-guard",
+  "name": "网络守护",
+  "version": "0.1.0",
+  "minHost": 1,
+  "minApp": "0.1.0",
+  "category": "network",
+  "summary": "VpnService 虚拟网卡：域名画像 / 异常传输拦截 / 恶意行为告警（插件风险深度查询）。",
+  "icon": "📡",
+  "permissions": [
+    "BIND_VPN_SERVICE"
+  ],
+  "entry": "com.abyss.tools.plugin.networkguard.NetworkGuardPlugin",
+  "repo": "Ultra-Guru/abyss-plugin-network-guard",
+  "patchChannel": "https://raw.githubusercontent.com/Ultra-Guru/abyss-plugin-network-guard/main/patches/index.json",
+  "roadmap": [
+    "v0.2 VpnService 骨架",
+    "v0.3 流量画像",
+    "v0.4 VirusTotal 对接"
+  ]
+}
