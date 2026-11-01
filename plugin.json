@@ -11,8 +11,8 @@
     "BIND_VPN_SERVICE"
   ],
   "entry": "com.abyss.tools.plugin.networkguard.NetworkGuardPlugin",
-  "repo": "Ultra-Guru/abyss-plugin-network-guard",
-  "patchChannel": "https://raw.githubusercontent.com/Ultra-Guru/abyss-plugin-network-guard/main/patches/index.json",
+  "repo": "abyss-tool/abyss-plugin-network-guard",
+  "patchChannel": "https://raw.githubusercontent.com/abyss-tool/abyss-plugin-network-guard/main/patches/index.json",
   "roadmap": [
     "v0.2 VpnService 骨架",
     "v0.3 流量画像",
