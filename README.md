@@ -1,3 +1,12 @@
+> [!IMPORTANT]
+> **本仓库已并入深渊工具主壳（v0.8.0 大内置化重构，仓库随即可归档）**
+>
+> 按新的分界纪律「只有自带完整引擎的能力才插件化（构建器 / 病毒拦截 / 虚拟机）」，
+> 本插件的全部能力已直接实现进主仓库 [abyss-tool/Abyss-Tools](https://github.com/abyss-tool/Abyss-Tools)
+> （`ToolStatus.BUILT_IN`），落地为 流量审计（dumpsys netstats 应用维度画像），随 App 版本更新获得 —— 不再需要安装本插件。
+>
+> 本仓库保留为历史存档（只读）：补丁通道与 manifest 仍可访问，但不再发布新版本。
+
 <div align="center">
 
 # 📡 网络守护
